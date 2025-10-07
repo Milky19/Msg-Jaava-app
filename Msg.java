@@ -5,3 +5,5 @@ public class Msg{
 		System.out.println("WELCOME TO JAVA-APP");
 	}
 }
+
+
